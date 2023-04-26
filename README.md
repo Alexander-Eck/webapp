@@ -5,3 +5,6 @@ To-Do until completion:
 
 + Have a great idea
 + Execute
++ Publish
++ Get users
++ Monetize
